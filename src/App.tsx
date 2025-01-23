@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import Navbar from './Componests/Navbar'
 import Hero from './Componests/Hero'
 import Footer from './Componests/Footer'

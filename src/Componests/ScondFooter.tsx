@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import sveImage from "../assets/Vector (4).png";
 import earthImage from "../assets/Vector (2).png";
 import twitterImage from "../assets/Twitter.png";
